@@ -1,4 +1,4 @@
-#Wed Dec 22 06:53:09 BRT 2021
-base.0=/Users/bracinho2/Desktop/Apps/masterclass/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Dec 31 09:34:32 BRT 2021
+base.0=/Users/bracinho2/Desktop/Apps/masterclass_flutterando/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
